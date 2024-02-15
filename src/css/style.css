@@ -149,7 +149,7 @@ nav {
     padding: 20px 0 60px 0;
 }
 
-.work .label {
+.label {
     display: block;
     margin: 0 auto;
     width: 112px;
@@ -163,7 +163,7 @@ nav {
     color: #FFFFFF;
 }
 
-.work .work_header {
+.title {
     margin-top: 33px;
     font-weight: 700;
     font-size: 38px;
